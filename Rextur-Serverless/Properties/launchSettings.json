@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Rextur_Serverless": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7141",
+      "launchBrowser": false
+    }
+  }
+}
